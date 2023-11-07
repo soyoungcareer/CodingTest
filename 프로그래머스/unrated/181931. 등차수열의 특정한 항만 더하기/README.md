@@ -1,10 +1,10 @@
 # [level unrated] 등차수열의 특정한 항만 더하기 - 181931 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181931?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181931) 
 
 ### 성능 요약
 
-메모리: 75.5 MB, 시간: 0.03 ms
+메모리: 72 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 11월 2일 9:8:0
+2023년 11월 2일 9:12:12
 
 ### 문제 설명
 
